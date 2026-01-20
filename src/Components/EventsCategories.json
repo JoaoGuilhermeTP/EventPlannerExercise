@@ -1,0 +1,24 @@
+[
+    {
+        "type": "Social Events",
+        "categories": [
+            "Birthday parties",
+            "Anniversary celebrations",
+            "Wedding receptions",
+            "Baby showers",
+            "Graduation parties",
+            "Family reunions"
+        ]
+    },
+    {
+        "type": "Entertainment Events:",
+        "categories": [
+            "Concerts",
+            "Music festivals",
+            "Film screenings",
+            "Comedy shows",
+            "Art exhibitions",
+            "Cultural events"
+        ]
+    }
+]
